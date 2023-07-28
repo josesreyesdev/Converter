@@ -1,0 +1,10 @@
+package utils;
+
+public enum Coins {
+    PESOS_MXN_TO_DOLLAR,
+    PESOS_MXN_TO_LIBRAS,
+    PESOS_MXN_TO_EUROS,
+    DOLLAR_TO_PESOS_MXN,
+    LIBRAS_TO_PESOS_MXN,
+    EUROS_TO_PESOS_MXN
+}
