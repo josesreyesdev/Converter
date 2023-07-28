@@ -37,13 +37,9 @@
       <component id="7e344" class="javax.swing.JButton" binding="btnConvert">
         <constraints/>
         <properties>
-          <text value="&amp;Convert"/>
+          <text value="Convert"/>
         </properties>
       </component>
     </children>
   </grid>
-  <inspectionSuppressions>
-    <suppress inspection="NoLabelFor"/>
-    <suppress inspection="I18nForm"/>
-  </inspectionSuppressions>
 </form>
